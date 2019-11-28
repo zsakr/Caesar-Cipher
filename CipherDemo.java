@@ -1,7 +1,7 @@
 /**
  * This class uses the Cipher class to create
  * a simple encryption/decryption command-line program
- *
+ * @author Ziad Sakr
  * @author Ewa Syta
  * @version 1.0 3/12/18
  */
